@@ -14,23 +14,23 @@ This semester, lab meetings will be held Wednesdays at noon, usually in room 201
 
 **Feb 20** Ann Raiho, ReFAB
 
-**Feb 27**
+**Feb 27** [Pecha Kucha](https://github.com/WilliamsPaleoLab/LabMeetings/PechaKucha.md)
 
 **Mar 6** Sed Points of Light [470 Weeks]: Daniel Segesseman: Ediacaran macrostratigraphy - compiling the Ediacaran of North America
 
-**Mar 13**
+**Mar 13** [Pecha Kucha](https://github.com/WilliamsPaleoLab/LabMeetings/PechaKucha.md)
 
 **Mar 20** [No lab - spring break]
 
 **Mar 27** Sed Points of Light [470 Weeks]: Alex Villa: Clumped isotopes/Paleoclimate in Cariaco Basin from LGM to present
 
-**Apr 3**
+**Apr 3** *TBD/Pecha Kucha*
 
-**Apr 10**
+**Apr 10** *TBD/Pecha Kucha*
 
-**Apr 17**
+**Apr 17** *TBD/Pecha Kucha*
 
-**Apr 24**
+**Apr 24** *TBD/Pecha Kucha*
 
 **May 1** Sed Points of Light [470 Weeks]: Nick Sullivan: Optimized Constraint - "Biostrat on crack" - Using Orbital Forcing/Cyclostratigraphy for correlation
 
