@@ -14,11 +14,11 @@ This semester, lab meetings will be held Wednesdays at noon, usually in room 201
 
 **Feb 20** Ann Raiho, ReFAB
 
-**Feb 27** [Pecha Kucha](https://github.com/WilliamsPaleoLab/LabMeetings/PechaKucha.md)
+**Feb 27** [Pecha Kucha](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md)
 
 **Mar 6** Sed Points of Light [470 Weeks]: Daniel Segesseman: Ediacaran macrostratigraphy - compiling the Ediacaran of North America
 
-**Mar 13** [Pecha Kucha](https://github.com/WilliamsPaleoLab/LabMeetings/PechaKucha.md)
+**Mar 13** [Pecha Kucha](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md)
 
 **Mar 20** [No lab - spring break]
 
